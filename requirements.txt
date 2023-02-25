@@ -1,8 +1,4 @@
-
 numpy==1.24.2
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
-
 opencv-contrib-python==4.7.0.72
 opencv-python==4.7.0.72
-
 streamlit==1.19.0
